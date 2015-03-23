@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/PicKeeper/src/org/ltpete/simple/pickeeper/PicKeeper.groovy"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.ltpete.simple.pickeeper.PicKeeper"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="--directory &quot;c:\Users\Peti\Pictures\LtPete 5s&quot;&#13;&#10;--gallery c:\Users\Peti\Pictures\PicKeeper&#13;&#10;--recursive"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="PicKeeper"/>
+</launchConfiguration>
